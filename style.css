@@ -1,0 +1,34 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20%;
+}
+.top2{
+    width: 20%;
+    height: 30%;
+    font-size: x-large;
+    background-color: red;
+    border: none;
+    color: white;
+}
+.top1{
+    width: 20%;
+    height: 30%;
+    font-size: x-large;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    align-items: center;
+}
+span{
+    font-size: x-large;
+    font-weight: bold;
+}
